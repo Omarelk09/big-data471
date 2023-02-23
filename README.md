@@ -1,8 +1,7 @@
 # big-data471
 
 Project Summary
-Instructions:
-Project summary (10%) The project summary will be a 400-word abstract available as a Markdown (.md) document in a GitHub repository. The summary will report on project definition and model design. It will describe the dataset and its main characteristics (number and type of features), the research questions to be addressed in the project, the class of models to be applied to the dataset, and the algorithms that will be used. At least two algorithms must be used and compared. The project summary will be evaluated during the project clinics
+
 
 For our project, our team will be developing a recommender system - more specifically, an anime recommender since all of our team members enjoy watching anime. In order to create this system we will be using two databases that we found on Kaggle. Based on the information of a user, our system will recommend an anime of the same genre. We were also considering creating a form for users, and adding additional questions/fields such as free time - to not only recommend based on rating and genre, but also recommend based on the number of episodes. For instance, a user who is very busy will be less likely to be recommended an anime with a higher number of episodes. 
 
