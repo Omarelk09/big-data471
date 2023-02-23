@@ -36,5 +36,5 @@ For our project, the anime will be clustered based on their genre.
 
 
 Our machine learning model will consist of a mix of matrix factorization and neural network based model to predict the top 10 animes that match a user profile. Matrix factorization will help us uncover all possible correlations. Neural networks on the other hand have proven themselves to be very efficient in handling multiples features. Due to their structure, neural network based models will help us analyze deeper and extract a robust recommendation.  
-![image](https://user-images.githubusercontent.com/65197387/220799733-cb828fa3-cdf0-4321-ba21-f41edbcad84c.png)
+
 
